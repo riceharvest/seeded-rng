@@ -13,6 +13,12 @@
     "lcg"
   ],
   "author": "OpenSource Framework Contributors",
+  "contributors": [
+    {
+      "name": "Rice Harvest",
+      "url": "https://github.com/riceharvest"
+    }
+  ],
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -63,6 +69,10 @@
   "homepage": "https://github.com/riceharvest/seeded-rng#readme",
   "publishConfig": {
     "access": "public"
+  },
+  "funding": {
+    "type": "GitHub",
+    "url": "https://github.com/sponsors/riceharvest"
   },
   "engines": {
     "node": ">=18.0.0"
