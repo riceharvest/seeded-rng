@@ -55,13 +55,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riceharvest/opensourceframework.git",
-    "directory": "packages/seeded-rng"
+    "url": "git+https://github.com/riceharvest/seeded-rng.git"
   },
   "bugs": {
-    "url": "https://github.com/riceharvest/opensourceframework/issues?q=is%3Aissue+is%3Aopen+seeded-rng"
+    "url": "https://github.com/riceharvest/seeded-rng/issues"
   },
-  "homepage": "https://github.com/riceharvest/opensourceframework/tree/main/packages/seeded-rng#readme",
+  "homepage": "https://github.com/riceharvest/seeded-rng#readme",
   "publishConfig": {
     "access": "public"
   },
