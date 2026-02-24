@@ -374,8 +374,3 @@ See [Contributing Guide](../../CONTRIBUTING.md) for details.
 ## License
 
 MIT © OpenSource Framework Contributors
-
-
----
-
-Maintained by @opensourceframework in the [monorepo](https://github.com/riceharvest/opensourceframework).
